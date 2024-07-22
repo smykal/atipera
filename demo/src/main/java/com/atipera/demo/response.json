@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Adapter",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "a9bdc57c0c1c808af98226a9324e146247c172ee"
+      }
+    ]
+  },
+  {
+    "name": "AdapterAndFacade",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "575f754755b5b36a37f6cf0752a9b1341f4bc5ab"
+      }
+    ]
+  },
+  {
+    "name": "airport",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "355410f8b54989e874823b428513982c2b7d0c44"
+      }
+    ]
+  },
+  {
+    "name": "Calculate-Client-Security-Hash",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "5efd0ba9f9e6a80e7396367de20b570ec21a0946"
+      }
+    ]
+  },
+  {
+    "name": "Command",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "e9d621697132a4b41a2ef76f60933c8b1acd7afb"
+      }
+    ]
+  },
+  {
+    "name": "DanceSchool",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "main",
+        "lastCommitSha": "7e03deac27104f7abe67b4d8ff9d886a4e9a93ee"
+      }
+    ]
+  },
+  {
+    "name": "DatabaseFirstStep",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "713003e4451b8c6e533bc496c54614f26321bc89"
+      }
+    ]
+  },
+  {
+    "name": "Decorator",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "5fcb91927f57f00a66bba6f318f6a6b75bc3875c"
+      }
+    ]
+  },
+  {
+    "name": "Euklides",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "57e58f95257c27825fd2ef4d2489516a1b94fc5d"
+      }
+    ]
+  },
+  {
+    "name": "Factory",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "6007d5162b3b08db36b33f06770da7b009cab357"
+      }
+    ]
+  },
+  {
+    "name": "Generate-Yearly-Report-Dispatcher",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "f5d0f4ebcda9596eeb29176b459756146ebfcc29"
+      }
+    ]
+  },
+  {
+    "name": "Generate-Yearly-Report-Performer",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "aa503c42dbfa322d98548272649d721fc0cba28b"
+      }
+    ]
+  },
+  {
+    "name": "Grafy",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "crazy_experiment",
+        "lastCommitSha": "bfc2b4c06e5e145311b38258128e378be42c9b20"
+      },
+      {
+        "name": "master",
+        "lastCommitSha": "4a6c29820aaf67934b24a4ac9b1b5d52dbdcbc53"
+      }
+    ]
+  },
+  {
+    "name": "GrubaBula",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "b0940e74fd4b094edabc24e915f7e267e514799e"
+      }
+    ]
+  },
+  {
+    "name": "Observer",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "0aa4464318813b94a2c9cba7cd2118ec9ac448a3"
+      }
+    ]
+  },
+  {
+    "name": "Pets",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "659c92661f46d956019fe35327b65dd448c68589"
+      }
+    ]
+  },
+  {
+    "name": "PopChallange",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "e74e373de60ebb9c28df5973e82032382dff6d48"
+      }
+    ]
+  },
+  {
+    "name": "RESTHateoasTutorial",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "742796b09124db7110c73844d33dc37294135544"
+      }
+    ]
+  },
+  {
+    "name": "RESTTutorial",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "190eb29d36c2a076c75c0df8b361f6375ffc93de"
+      }
+    ]
+  },
+  {
+    "name": "Singleton",
+    "owner": "smykal",
+    "branches": []
+  },
+  {
+    "name": "smykal",
+    "owner": "smykal",
+    "branches": []
+  },
+  {
+    "name": "Sorting",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "20bac776248bf24368b58548866f0f04005ef8c3"
+      }
+    ]
+  },
+  {
+    "name": "SpringBootFundamentals",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "c9394bd26e3bc9e3f14042671bea323749361881"
+      }
+    ]
+  },
+  {
+    "name": "Strategia",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "fc37ccfd7c9ed5cccd89423ecfb0c2bf87168b97"
+      }
+    ]
+  },
+  {
+    "name": "Tatry",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "master",
+        "lastCommitSha": "8de99cf9b7da75c74e2412441301b37baeabe5c3"
+      }
+    ]
+  },
+  {
+    "name": "zapiszto",
+    "owner": "smykal",
+    "branches": [
+      {
+        "name": "branch",
+        "lastCommitSha": "c96cd0558ac5dfe8702aa78253d4da475a7bd3a8"
+      },
+      {
+        "name": "goals",
+        "lastCommitSha": "195e9fdce858f587a7c56344c71bb910ff809369"
+      },
+      {
+        "name": "heroku",
+        "lastCommitSha": "5e965df70d67f2db38b7a01508cd27c2ce3aa484"
+      },
+      {
+        "name": "invitations",
+        "lastCommitSha": "1e8a0cc491805005e0b7b3326ea5014f6a74e8ab"
+      },
+      {
+        "name": "master",
+        "lastCommitSha": "6fb22b73eb041f2e6d0b8b12d70947a0fc6fa15b"
+      },
+      {
+        "name": "ongoing",
+        "lastCommitSha": "c1917e9a61745d7d2465a159c7b4ca4e3691fb3e"
+      }
+    ]
+  }
+]
